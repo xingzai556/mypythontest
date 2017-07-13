@@ -1,0 +1,2 @@
+# mypythontest
+learn python notes
